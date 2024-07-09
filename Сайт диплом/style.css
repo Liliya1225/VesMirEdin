@@ -1,0 +1,250 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Radio+Canada:ital,wght@0,300..700;1,300..700&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Raleway", sans-serif;
+    color: #22356F;
+    overflow-x: hidden;
+}
+
+p {
+    margin: 0;
+}
+
+nav {
+    background-color: transparent !important;
+}
+
+ul {
+    list-style: none;
+}
+
+.nav-item .active {
+    color: inherit !important;
+    border-bottom: 1px solid;
+
+}
+
+.nav-link{
+    color: #22356F !important;
+}
+
+.bg-wheat {
+  background-color: #F4F9E2 !important;
+}
+
+.bg-sky {
+    background-color: #62D0DF !important;
+}
+
+.bg-orange {
+    background-color: #F9B640 !important;
+}
+
+.text-sky {
+    color: #62D0DF !important;
+}
+
+.text-orange {
+    color: #F9B640 !important;
+}
+
+.logo {
+    width: 67px;
+}
+
+.logotext-custom-m {
+    margin-left: 2.55rem;
+}
+
+.section1 {
+    min-height: 100vh;
+}
+
+.margin-xl {
+    margin-left: 187px !important;
+}
+
+.btn {
+    font-weight: 900 !important;
+    border-radius: 50px;
+    border: none;
+    font-size: 18px;
+}
+
+.btn-donate {
+    width: 160px;
+    height: 50px;
+}
+
+.btn-become {
+    width: 200px;
+    height: 70px;
+    letter-spacing: 0.1rem;
+    line-height: 150%;
+}
+
+.section2 {
+    min-height: 70vh;
+}
+
+.section2-img {
+    height: 100%;
+    max-width: 50%;
+    width: 45%;
+    background-color: peachpuff;
+    background-image: url('картинки/руки.jpg');
+    background-size: cover;
+    background-position-y: 100%;
+    background-position-x: 70%;
+}
+
+.section2-img img {
+    width: 100%;
+}
+
+.about-grid img {
+    max-width: 400px;
+    width: 100%;
+}
+
+.section3{
+    margin-left: 90px !important;
+}
+
+.section3-icons {
+    left: -1rem !important;
+}
+
+.section3-grid .btn {
+    letter-spacing: 2px;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.navbar-nav {
+    font-size: 1rem !important;
+}
+
+.testblock {
+    height: 400px;
+    width: 500px;
+    background-color: red;
+}
+
+.modal-dialog, .modal-content {
+    max-height: 96vh !important;
+}
+
+.carousel-indicators {
+    bottom: -1.5rem !important;
+}
+
+.carousel-wrap img {
+    height: 300px !important;
+}
+
+.btn-arrow {
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.btn-arrow img {
+    width: 2rem;
+}
+
+/* .modal-bottom {
+    border-radius: 50px;
+} */
+
+.modal-bottom {
+    box-sizing: border-box;
+    margin-top: 10px;
+    border-radius: 50px;
+    height: 220px;
+    overflow: hidden;
+  }
+  
+  .modal-bottom div {
+    height: 100%;
+    scrollbar-width: thin;
+    scrollbar-color: #62D0DF #9bf3ff;
+    box-sizing: border-box;
+  }
+
+footer img {
+    max-width: 33.3%;
+}
+
+.modal-close-btn {
+    right: 15%;
+}
+
+.item-title{
+    height: 75px;
+    display: flex;
+    align-items: end;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: 500;
+    color: #22356F;
+    text-align: center;
+  }
+
+a{
+    color: unset;
+    text-decoration: none;
+}
+
+.hands-img {
+    width: 642px;
+}
+
+.min{
+    min-height: 70vh;
+}
+
+.custom-font{
+    font-family: "Radio Canada", sans-serif;
+}
+
+.custom-shadow {
+    box-shadow: 5px 5px 6.4px rgba(0, 0, 0, 0.25);
+}
+
+.custom-rounded {
+    border-radius: 40px;
+}
+
+.socials-container {
+    max-width: 1100px;
+}
+
+.socials-item {
+    max-width: 500px;
+}
+
+.border{
+    border-radius: 20px;
+}
+
+.team-grid img {
+    max-width: 300px;
+}
+
+.team-grid .rounded-5 {
+    max-height: 240px;
+}
+
+.kontakt-icon{
+    width: 70px;
+}

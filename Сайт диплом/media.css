@@ -1,0 +1,430 @@
+@media (min-width: 429.98px) and (max-width: 575.98px) {
+    .arrow-left {
+        margin-left: 1rem !important;
+    }
+
+    .arrow-right {
+        margin-right: 1rem !important;
+    }
+}
+
+@media (min-width:1900px){
+    nav{
+        max-width: 95%;
+        margin: 0 auto;
+    }
+
+    .nav-item{
+        font-size: 20px;
+    }
+
+    .logo{
+        width: 77px;
+    }
+
+    .logo2{
+        width: 200px;
+    }
+
+    .social-icons img{
+        width: 45px;
+    }
+
+    .btn-donate{
+        font-size: 22px;
+        width: auto;
+        height: 60px;
+        margin: 0 !important;
+    }
+
+    .btn-become{
+        font-size: 22px;
+        width: 220px;
+        height: 80px;
+    }
+
+    .fs-2{
+        font-size: 40px !important;
+    }
+
+    .fs-3 {
+        font-size: 38px !important;
+    }
+
+    .fs-4 {
+        font-size: 32px !important;
+    }
+
+    .fs-5{
+        font-size: 28px !important;
+    }
+
+    .margin-xl{
+        margin-left: 255px !important;
+    }
+
+    .margin-xl p{
+        width: 48%;
+    }
+
+    .hands-img{
+        width: 742px;
+    }
+
+    .section2-img{
+        width: 43%;
+    }
+
+    .section2 .margin-xl{
+        margin-left: 220px !important;
+    }
+
+    .fs-6{
+        font-size: 22px !important;
+    }
+
+    .section3{
+        margin-left: 120px !important;
+    }
+
+    .section3-icons {
+        width: 38px;
+    }
+
+    .about-grid img {
+        max-width: 500px;
+        width: 100%;
+    }
+
+    .section4 p, .section4 a{
+        font-size: 20px;
+    }
+
+    .section4 img{
+        width: 40%;
+    }
+
+    .about-grid .btn-donate {
+        padding: 0 2rem !important;
+    }
+
+    .bg-wheat .title {
+        font-size: 1.5rem;
+    }
+
+    .socials-container {
+        max-width: 1300px;
+    }
+    
+    .socials-item {
+        max-width: 600px;
+    }
+
+    .socials-item img {
+        width: 100%;
+        height: auto;
+    }
+
+    .team-grid img {
+        max-width: 400px;
+        width: 360px;
+    }
+
+    .team-grid .rounded-5 {
+        max-height: 300px;
+    }
+
+    .btn-arrow img {
+        width: 2.5rem;
+    }
+
+    .modal-top {
+        width: 63%;
+        padding-bottom: 60px !important;
+    }
+
+    .modal-bottom {
+        width: 90%;
+        height: 260px;
+        margin-top: 60px !important;
+    }
+
+    .modal-bottom p {
+        font-size: 1.5rem;
+    }
+
+    .modal-close-btn {
+        right: 4%;
+    }
+    
+    .carousel-wrap img {
+        height: 400px !important;
+    }
+}
+
+
+
+@media (max-width: 575.98px) { 
+    body {
+        overflow-x: hidden;
+    }
+
+    .fs-2 {
+        font-size: 20px !important;
+    }
+
+    .fs-4 {
+        font-size: 18px !important;
+    }
+
+    .fs-5 {
+        font-size: 12px !important;
+    }
+
+    .fs-6 {
+        font-size: 14px !important;
+    }
+
+    h5 {
+        font-size: 16px !important;
+    }
+
+    .section1 {
+        min-height: 50vh;
+    }
+
+    .hands-img {
+        width: 170px;
+        top: 20px !important;
+    }
+
+    .margin-xl {
+        margin: 0 !important;
+    }
+
+    .section2 {
+        min-height: 40vh;
+    }
+
+    .section2-img {
+        display: none !important;
+    }
+
+    .section2 .margin-xl {
+        margin: 0 auto !important;
+    }
+
+    .logo{
+        width: 37px;
+    }
+
+    .logo2{
+        width: 85px;
+    }
+
+    .logotext-custom-m {
+        margin-left: 0;
+    }
+
+    .social-icons img {
+        width: 20px;
+    }
+
+    .nav-item {
+        font-size: 12px !important;
+    }
+
+    .btn-donate {
+        font-size: 12px;
+        width: auto;
+        height: auto;
+        padding: 10px 8px;
+    }
+
+    .btn-become {
+        font-size: 12px;
+        width: 120px;
+        height: auto;
+    }
+
+    .section3{
+        margin-left: 0px !important;
+    }
+
+    .section3-icons {
+        width: 24px;
+        left: 2rem !important;
+    }
+
+    .section3-grid .fs-5 {
+        font-size: 18px !important;
+    }
+
+    .sec3-icon {
+        left: 1.5rem !important;
+    }
+
+
+    footer img {
+        max-width: 100%;
+    }
+
+    .section4 .d-flex .justify-content-around {
+        font-size: 10px !important;
+    }
+
+    .section4 .d-flex .justify-content-around p {
+        height: 33px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .footer-credits {
+        font-size: 12px;
+    }
+
+
+    .title {
+        font-size: 14px;
+    }
+
+    .item-title {
+        height: auto;
+    }
+
+    .section3-grid .btn {
+        padding: 8px 20px;
+    }
+
+
+
+
+    .btn-arrow img {
+        width: 1.5rem;
+    }
+
+    .carousel-inner {
+        padding: 5px 0 !important;
+    }
+
+    .modal-top {
+        width: 100%;
+        padding-top: 10px !important;
+        padding-bottom: 30px !important;
+        border-radius: 30px !important;
+    }
+
+    .modal-bottom {
+        width: 100%;
+        height: 150px;
+        margin-top: 30px !important;
+        border-radius: 30px !important;
+    }
+
+    .modal-bottom p {
+        font-size: 12px !important;
+    }
+
+    .modal-close-btn {
+        right: 0%;
+    }
+
+    .modal-close-btn img {
+        width: 20px;
+    }
+    
+    
+    .carousel-wrap img {
+        height: 220px !important;
+    }
+
+    .socials-container .fs-6 {
+        font-size: 13px !important;
+    }
+
+    .socials-container .fs-4 {
+        font-size: 15px !important;
+    }
+
+    .social-item-icon img {
+        width: 26px !important;
+    }
+
+
+    .team-grid img {
+        max-width: 160px;
+    }
+    
+    .team-grid .rounded-5 {
+        max-height: 125px;
+    }
+
+    .team-grid .fs-4 {
+        font-size: 15px !important;
+    }
+
+    .team-grid .fs-6 {
+        font-size: 12px !important;
+    }
+
+    .kontakt-icon{
+        width: 40px;
+    }
+}
+
+
+
+
+@media (max-width: 360.98px) {
+    .logotext-custom-m {
+        margin-right: 0 !important;
+    }
+
+    .btn-donate{
+        font-size: 10px !important;
+    }
+
+    .section3-grid .fw-semibold {
+        font-size: 16px !important;
+    }
+
+    .arrow-left {
+        margin-left: 2px !important;
+    }
+
+    .arrow-right {
+        margin-right: 2px !important;
+    }
+
+    .modal .fs-4 {
+        font-size: 15px !important;
+    }
+
+    .title {
+        font-size: 13px !important;
+    }
+
+    .fs-2 {
+        font-size: 18px !important;
+    }
+
+    .margin-xl .fw-semibold {
+        width: 75% !important;
+        font-size: 11px !important;
+    }
+
+    .team-grid img {
+        max-width: 150px;
+    }
+    
+    .team-grid .rounded-5 {
+        max-height: 115px;
+        border-radius: 20px !important;
+    }
+
+    .team-grid .fw-bold {
+        width: 90% !important;
+        font-size: 11px !important;
+    }
+}
